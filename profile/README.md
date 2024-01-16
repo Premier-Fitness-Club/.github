@@ -46,7 +46,7 @@ La aplicacíon movil está instalada en el dispositivo, pero necesita consumir d
 ![DALL·E 2024-01-15 23 40 13 - Illustration depicting a large number of mobile devices, such as smartphones and tablets, all sending HTTP requests to the 'Servisofts' server  The im](https://github.com/Premier-Fitness-Club/.github/assets/7370358/8471dbf7-ced8-42e8-a5b4-02d99af82109)
 
 
-## Servidor Premier
+## Servidor del Premier
 
 El servidor Premier está en la nube, es Windows.
 Mas adelante cuando sea necesario aquí podremos ver el manual de instalación del Robot Servisofts en el servidor Premier.
@@ -56,4 +56,15 @@ Mas adelante cuando sea necesario aquí podremos ver el manual de instalación d
 
 ### Base de datos
 - SQL-Server
+
+
+## App Premier Fitnes Club
+
+La app oficial de premier fitnes club tiene como objetivo principal realizar venta de paquetes de gimnasio online a cualquier persona que se registre en la app.
+Tambien pueda mantener informado a los clientes sobre novedades, promociones.
+La App estará conectada a la empresa servisofts, la cual configurará una cuenta del banco ganadero para realizar peticiones QR con callback de pago para realizar la amortización y venta automatica de los paquetes.
+
+![DALL·E 2024-01-15 23 52 58 - Illustration showing an app on a mobile device connected to the Servisofts server, which in turn is connected to the Banco Ganadero for QR code genera](https://github.com/Premier-Fitness-Club/.github/assets/7370358/009e9748-0d7e-4683-9a1e-207ecc234e88)
+
+El objetivo de la App es que desde el sistema de Premier registren paquetes y se vendan desde la App.
 
