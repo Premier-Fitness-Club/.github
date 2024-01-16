@@ -5,7 +5,11 @@ App Oficial de la primera cadena de Gimnasios de primer nivel en Bolivia - Aquí
 ## 15/01/2023
 
 - Primer reunion de Servisofts Srl. con Premier Fitnes Club.
-- Roy Ruddy Paz Demiquel - Servisofts Srl.
+- [Roy Ruddy Paz Demiquel](https://github.com/ruddypazd) - Servisofts Srl.
 - Valeria Mustafá Fleig - Premier Fitnes Club.
 - Ricardo Issa - Premier Fitnes Club.
 - Ivan - (Sistemas) Premier Fitnes Club.
+- Se crea el grupo en Wtspp.
+- Se obtiene el logo de la foto de perfil.
+- Se crea este repositorio
+- 
