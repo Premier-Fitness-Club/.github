@@ -66,6 +66,6 @@ La App estará conectada a la empresa servisofts, la cual configurará una cuent
 
 ![DALL·E 2024-01-15 23 52 58 - Illustration showing an app on a mobile device connected to the Servisofts server, which in turn is connected to the Banco Ganadero for QR code genera](https://github.com/Premier-Fitness-Club/.github/assets/7370358/009e9748-0d7e-4683-9a1e-207ecc234e88)
 
-El objetivo de la App es que desde el sistema de Premier registren paquetes y se vendan desde la App.
+El objetivo de la App es captar prospecto de clientes, personas que se regustran, porque al estar registrado ya tendremos su email, su telefono y su app instalada en el celular, con lo cual se puede atacar de diferents tipos de marketing digital que desde para que con un simple link termina en presionar el boton comprar facilmente.
 
 ![DALL·E 2024-01-16 00 29 52 - Illustration combining elements of the Premier Fitness Club brand with a digital environment where multiple apps are making QR code transactions with ](https://github.com/Premier-Fitness-Club/.github/assets/7370358/65f5b3b2-dab9-491d-944d-5d1dfd46ddfe)
