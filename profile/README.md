@@ -68,3 +68,4 @@ La App estará conectada a la empresa servisofts, la cual configurará una cuent
 
 El objetivo de la App es que desde el sistema de Premier registren paquetes y se vendan desde la App.
 
+![image](https://github.com/Premier-Fitness-Club/.github/assets/7370358/ed0e7208-31e1-4bbf-b3a4-574ec720e30c)
