@@ -25,7 +25,7 @@ En llamada con Ivan, se quedo en la posibilidad de insertar un Robot Servisofts 
 
 #### Que es el Robot Servisofts?
 
-El Robot Servisofts es un archivo .jar desarrollado en el lenguaje de programación Java, este jar se encarga de trabajar con la base de datos de Premier Fitnes Club.
+El Robot Servisofts es un archivo .jar desarrollado en el lenguaje de programación Java, este jar se encarga de acceder a la base de datos de Premier Fitnes Club. y crear una API para se consumida por la aplicación movil.
 
 ![DALL·E 2024-01-15 23 25 57 - Advanced conceptual design for 'SERVISOFTS', focusing on its software essence, with explicit representations of a database and an API  The name 'SERVI](https://github.com/Premier-Fitness-Club/.github/assets/7370358/28df2a21-ecc3-4b0b-b490-b3ba49ee6a86)
 
