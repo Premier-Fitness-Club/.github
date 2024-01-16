@@ -46,7 +46,7 @@ La aplicacíon movil está instalada en el dispositivo, pero necesita consumir d
 ![DALL·E 2024-01-15 23 40 13 - Illustration depicting a large number of mobile devices, such as smartphones and tablets, all sending HTTP requests to the 'Servisofts' server  The im](https://github.com/Premier-Fitness-Club/.github/assets/7370358/8471dbf7-ced8-42e8-a5b4-02d99af82109)
 
 
-### Servidor
+## Servidor Premier
 - Url ???
 - Sistema Operativo ???
 
@@ -55,5 +55,4 @@ La aplicacíon movil está instalada en el dispositivo, pero necesita consumir d
 
 ### Base de datos
 - SQL-Server
-
 
