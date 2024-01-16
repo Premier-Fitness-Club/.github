@@ -21,7 +21,7 @@ App Oficial de la primera cadena de Gimnasios de primer nivel en Bolivia - Aquí
 
 Premier Fitnes Club, tiene un sistema propietario con el cual trabajan hace mucho tiempo.
 El desarrollador es Ivan, ivan tiene conocimiento de todo el sistema y tiene la capacidad de hacer cualquier modificacion o cambio a necesidad.
-En llamada con Ivan, se quedo en la posivilidad de insertar un Robot Servisofts en el servidor de Premier.
+En llamada con Ivan, se quedo en la posibilidad de insertar un Robot Servisofts en el servidor de Premier.
 
 #### Que es el Robot Servisofts?
 
