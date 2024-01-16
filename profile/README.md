@@ -47,8 +47,9 @@ La aplicacíon movil está instalada en el dispositivo, pero necesita consumir d
 
 
 ## Servidor Premier
-- Url ???
-- Sistema Operativo ???
+
+El servidor Premier está en la nube, es Windows.
+Mas adelante cuando sea necesario aquí podremos ver el manual de instalación del Robot Servisofts en el servidor Premier.
 
 ### Lenguaje de programación
 - C#
