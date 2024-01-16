@@ -34,6 +34,10 @@ El Robot Servisofts es un archivo .jar desarrollado en el lenguaje de programaci
 
 Para la seguridad de los datos de Premier Fitnes Club, Ivan creará el usuario `AppFitnesClub` a nivel de base de datos, y otorgará permisos solo a ciertos procedimientos almacenados que serán solicitados por parte del equipo de Servisofts.
 Esto quiere decir que todo el acceso a la base de datos de Premier Fitnes Club, es controlado por Ivan.
+El la API del Robot Servisofts cuenta con `cifrado de extremo a extremo` para que toda la información viaje encryptada desde el `Servidor de Premier` hasta la `app` en el dispositivo del Cliente.
+
+![DALL·E 2024-01-15 23 34 26 - Advanced design of 'SERVISOFTS', focusing on end-to-end encrypted keys and security certificates  The design centers around the 'SERVISOFTS' name in a](https://github.com/Premier-Fitness-Club/.github/assets/7370358/8cd1f4be-5cd8-4fbc-83a6-d96b08ba66cc)
+
 
 #### Para que se neceista el Robot Servisots?
 
