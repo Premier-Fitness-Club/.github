@@ -13,4 +13,38 @@ App Oficial de la primera cadena de Gimnasios de primer nivel en Bolivia - Aquí
 - Se obtiene el logo de la foto de perfil.
 - Se crea este repositorio
 - Se crea el [Figma](https://www.figma.com/file/8eRGzz2inV6f9xKgh3JFhk/PremierFitnesClub?type=design&mode=design&t=VsqHttr9PRqz7Mcb-0)
-- 
+
+![WhatsApp Image 2024-01-15 at 11 05 23 PM](https://github.com/Premier-Fitness-Club/.github/assets/7370358/3f9d4de7-5523-4c66-b580-40b118fe731c)
+
+
+## Investigación
+
+Premier Fitnes Club, tiene un sistema propietario con el cual trabajan hace mucho tiempo.
+El desarrollador es Ivan, ivan tiene conocimiento de todo el sistema y tiene la capacidad de hacer cualquier modificacion o cambio a necesidad.
+En llamada con Ivan, se quedo en la posivilidad de insertar un Robot Servisofts en el servidor de Premier.
+
+#### Que es el Robot Servisofts?
+
+El Robot Servisofts es un archivo .jar desarrollado en el lenguaje de programación Java, este jar se encarga de trabajar con la base de datos de Premier Fitnes Club.
+
+#### Esto es seguro?
+
+Para la seguridad de los datos de Premier Fitnes Club, Ivan creará el usuario `AppFitnesClub` a nivel de base de datos, y otorgará permisos solo a ciertos procedimientos almacenados que serán solicitados por parte del equipo de Servisofts.
+Esto quiere decir que todo el acceso a la base de datos de Premier Fitnes Club, es controlado por Ivan.
+
+#### Para que se neceista el Robot Servisots?
+
+
+
+
+### Servidor
+- Url ???
+- Sistema Operativo ???
+
+### Lenguaje de programación
+- C#
+
+### Base de datos
+- SQL-Server
+
+
