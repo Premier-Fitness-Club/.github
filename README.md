@@ -1,1 +1,1 @@
-# Permier Fitnes Club
+# Premier Fitnes Club
