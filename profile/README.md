@@ -41,7 +41,9 @@ El la API del Robot Servisofts cuenta con `cifrado de extremo a extremo` para qu
 
 #### Para que se neceista el Robot Servisots?
 
+La aplicacíon movil está instalada en el dispositivo, pero necesita consumir datos del servidor para poder mostrar información. Para esto el Robot Servisofts se encarga responder diferentes peticiones API a todas las aplicaciones.
 
+![DALL·E 2024-01-15 23 40 13 - Illustration depicting a large number of mobile devices, such as smartphones and tablets, all sending HTTP requests to the 'Servisofts' server  The im](https://github.com/Premier-Fitness-Club/.github/assets/7370358/8471dbf7-ced8-42e8-a5b4-02d99af82109)
 
 
 ### Servidor
