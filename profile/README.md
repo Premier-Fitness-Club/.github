@@ -12,4 +12,5 @@ App Oficial de la primera cadena de Gimnasios de primer nivel en Bolivia - Aquí
 - Se crea el grupo en Wtspp.
 - Se obtiene el logo de la foto de perfil.
 - Se crea este repositorio
+- Se crea el [Figma](https://www.figma.com/file/8eRGzz2inV6f9xKgh3JFhk/PremierFitnesClub?type=design&mode=design&t=VsqHttr9PRqz7Mcb-0)
 - 
