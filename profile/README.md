@@ -7,5 +7,5 @@ App Oficial de la primera cadena de Gimnasios de primer nivel en Bolivia - Aquí
 - Primer reunion de Servisofts Srl. con Premier Fitnes Club.
 - Roy Ruddy Paz Demiquel - Servisofts Srl.
 - Valeria Mustafá Fleig - Premier Fitnes Club.
-- Ricardo Isa - Premier Fitnes Club.
+- Ricardo Issa - Premier Fitnes Club.
 - Ivan - (Sistemas) Premier Fitnes Club.
