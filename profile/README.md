@@ -15,6 +15,3 @@ App Oficial de la primera cadena de Gimnasios de primer nivel en Bolivia - Aquí
 - Se crea el [Figma](https://www.figma.com/file/8eRGzz2inV6f9xKgh3JFhk/PremierFitnesClub?type=design&mode=design&t=VsqHttr9PRqz7Mcb-0)
 - Se crea la [cotización](https://github.com/Premier-Fitness-Club/.github/wiki/Cotizacion)
 
-![WhatsApp Image 2024-01-15 at 11 05 23 PM](https://github.com/Premier-Fitness-Club/.github/assets/7370358/3f9d4de7-5523-4c66-b580-40b118fe731c)
-
-
